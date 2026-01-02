@@ -2,6 +2,6 @@
 <navigation-bar title="Weixin" back="{{false}}" color="black" background="#FFF"></navigation-bar>
 <scroll-view class="scrollarea" scroll-y type="list">
   <view class="container">
-    <text class="hello-text">hello,xuzhou.</text>
+    <text class="hello-text">hello,xuzhou!</text>
   </view>
 </scroll-view>
