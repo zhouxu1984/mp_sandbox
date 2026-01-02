@@ -8,3 +8,8 @@ page {
   flex: 1;
   overflow-y: hidden;
 }
+
+.hello-text{
+  font-size: 36rpx;
+  color:cadetblue;
+}
