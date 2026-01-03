@@ -2,6 +2,8 @@
 <navigation-bar title="Weixin" back="{{false}}" color="black" background="#FFF"></navigation-bar>
 <scroll-view class="scrollarea" scroll-y type="list">
   <view class="container">
-    <text class="hello-text">hello,xuzhou!</text>
+    <image src="../../img/logo.jpg" mode="widthFix"></image>
+    <text class="hello-text">你好, {{wording}} ，很高兴遇见你！</text>
+    <button bindtap="onclick">你叫什么</button>
   </view>
 </scroll-view>
